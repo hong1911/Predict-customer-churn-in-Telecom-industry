@@ -1,1 +1,2 @@
 # Predict customer churn
+I collected dataset of 7,043 customers from a Telecommunications company in California in Q2 2022 on Kaggle website. Each record represents one customer, and contains details about their demographics, location, tenure, subscription services, status for the quarter (joined, stayed, or churned), and more! I am interested in predicting a potential churn with different machine learning models and identify the most relevant attributes causing the churn.
